@@ -1,0 +1,3 @@
+// define polymorphism
+
+So my definition of polymorphism is a way to place different varibles and types into a method or class to derive the right answer. Example place any shape in to get the area of it.
